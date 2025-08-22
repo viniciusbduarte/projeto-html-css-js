@@ -1,0 +1,1 @@
+![Calculadora](img.png)
