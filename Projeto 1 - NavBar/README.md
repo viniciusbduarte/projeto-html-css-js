@@ -1,1 +1,1 @@
-![Calculadora](img.png)
+![NavBar](img.png)
